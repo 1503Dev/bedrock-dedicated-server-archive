@@ -1,2 +1,3 @@
-# bedrock-dedicated-server-archive
-Bedrock Dedicated Server Archive 我的世界基岩版服务端存档
+# Bedrock Dedicated Server Archive
+如果想下载适用于 Windows 或 Ubuntu (Linux) 的 Bedrock 版专属服务器，你必须同意 [Minecraft 最终用户许可协议](EULA.zh.hans.md)和[隐私政策](https://www.microsoft.com/zh-cn/privacy/privacystatement)  
+_To download the Bedrock Edition dedicated server for Windows or Ubuntu (Linux), you must agree to the [Minecraft End(er)-User License Agreement](EULA.en.us.md) and the [Privacy Policy](https://www.microsoft.com/en-us/privacy/privacystatement)_

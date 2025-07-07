@@ -6,3 +6,5 @@ Releases 中的排序不一定是从新到旧，以下是按从新到旧排序�
 _The version sorting in Releases is not necessarily from newest to oldest. Below are the Tags sorted from newest to oldest._
 - [v1.21.100.23-preview](https://github.com/1503Dev/bedrock-dedicated-server-archive/releases/tag/v1.21.100.23-preview)  
 - [v1.21.93.1](https://github.com/1503Dev/bedrock-dedicated-server-archive/releases/tag/v1.21.93.1)
+- [v1.21.82.1](https://github.com/1503Dev/bedrock-dedicated-server-archive/releases/tag/v1.21.82.1)
+- [v1.21.70.04](https://github.com/1503Dev/bedrock-dedicated-server-archive/releases/tag/v1.21.70.04)

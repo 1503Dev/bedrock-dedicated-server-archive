@@ -11,3 +11,4 @@ _The version sorting in Releases is not necessarily from newest to oldest. Below
 - [v1.21.82.1](https://github.com/1503Dev/bedrock-dedicated-server-archive/releases/tag/v1.21.82.1)
 - [v1.21.70.04](https://github.com/1503Dev/bedrock-dedicated-server-archive/releases/tag/v1.21.70.04)
 - [v1.20.81.01](https://github.com/1503Dev/bedrock-dedicated-server-archive/releases/tag/v1.20.81.01)
+- [v1.20.11.01](https://github.com/1503Dev/bedrock-dedicated-server-archive/releases/tag/v1.20.11.01)
